@@ -3,9 +3,10 @@ package com.air.redis.tools;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
+//@EnableAutoConfiguration
+
 public class RedisForSpringApplication {
 	public Logger log = LoggerFactory.getLogger(RedisForSpringApplication.class);
 

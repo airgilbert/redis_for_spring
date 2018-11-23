@@ -1,4 +1,4 @@
-package com.air.redis.tools;
+package org.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
